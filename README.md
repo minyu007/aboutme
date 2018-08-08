@@ -18,13 +18,13 @@ Australia Childcare project for HK reasrch to analysis 1 to 2 KM radius around b
 
 ## Technology stack
 
-### Language:
+- Language:
 
 Javascript, ES6+, Typescript, Nodejs, HTML, CSS
 
-###Frameworks:
+- Frameworks:
 
 angular1.x, angular2+, reactjs ecosystem, vue2 ecosystem, jQuery
 
-####Other Tools:
+- Other Tools:
 npm, yarn, webpack4.0, babel
